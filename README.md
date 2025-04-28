@@ -8,7 +8,7 @@
 
 ### VIEW SCRIPT:
 
-* [VIEW](sik.hs.vc) 
+* [VIEW](https://sik.hs.vc/) 
 
 ### OWNER / FOUNDER :
 
